@@ -58,18 +58,18 @@ Coinbase offers Equality of Opportunity / Intuitive and friendly user interface.
 
  This has helped Coinbase secure $217M in equity financing from some of the biggest-name VCs, and vaulted the company into the unicorn club.
 
-##Coinbase technology 
+## Coinbase technology 
  [WalletLink](https://walletlink.org/#/): 
  Link your DApp to mobile wallets. 
  [Connect](https://developers.coinbase.com/docs/wallet/coinbase-connect)
   Enable users to buy, sell, and store crypto 
- [Commerce]() 
+ [Commerce](https://commerce.coinbase.com/) 
  Accept crypto from anyone. 
  [Pro.Coinbase](https://pro.coinbase.com/)
  Programmatically manages crypto. Rosetta Integrate your blockchain everywhere. Coinbase Cloud: Tools and APIS for developers building with crypto. Bison Trails Pioneering blockchain infrastructure. 
 
  
-###Investment and Wealth Management Fintech Company
+### Investment and Wealth Management Fintech Company
   2011 Founded by Brian Armstrong. 2015 Coinbase received a fund of 5mill, they launched GDAX OR Coinbase PRO for larger institutions to trade with lower fees. Most downloaded APP in App store in December 2017. 
 
 Other major companies in this domain?  
