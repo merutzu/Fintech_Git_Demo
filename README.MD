@@ -66,7 +66,13 @@ Coinbase offers Equality of Opportunity / Intuitive and friendly user interface.
  [Commerce](https://commerce.coinbase.com/) 
  Accept crypto from anyone. 
  [Pro.Coinbase](https://pro.coinbase.com/)
- Programmatically manages crypto. Rosetta Integrate your blockchain everywhere. Coinbase Cloud: Tools and APIS for developers building with crypto. Bison Trails Pioneering blockchain infrastructure. 
+ Programmatically manages crypto. 
+ [Rosetta](https://www.rosetta-api.org/)
+ Integrate your blockchain everywhere. 
+ [Coinbase Cloud](https://www.coinbase.com/cloud): 
+ Tools and APIS for developers building with crypto. 
+ [Bison Trails](https://bisontrails.co/)
+ Pioneering blockchain infrastructure. 
 
  
 ### Investment and Wealth Management Fintech Company
@@ -119,7 +125,7 @@ It’s important to note that Coinbase does not support crypto-crypto pairs (e.g
  
 To make it a "crypto-first” exchange and offer many types of trading, including margin trading, futures trading, as well as lowering High fees on on buying and selling.
 By implemeting these other trading financial options, their user-base numbers would immensely go up and also would eliminatie any strong competitors in the market. 
-Will attract more advance traders and possibly have more cash flow in and out the platform. Lowering fees would greatly go a long while adding these other trading features. 
+Lowering fees would greatly go a long adding these other trading features. 
 It would facilitate traders trading execution time, and ultimately growing Coinbase active monthly users. 
 
 ## Closing thoughts
