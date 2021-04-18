@@ -4,13 +4,13 @@
 Coinbase, a growing bitcoin wallet and exchange service headquartered in San Francisco, is the largest consumer bitcoin wallet in the world and the first regulated bitcoin exchange in the United States. Bitcoin is a form of digital currency that is created and stored electronically. The company, which supports 3 million global users, facilitates bitcoin transactions in 190 countries and exchanges between bitcoin and flat currencies in cover 30 countries. In addition to its wallet and exchange services, Coinbase offers an API that developers and merchants can use to build applications and accept bitcoin payments.
 
 Coinbase is divided into four primary lines of business
-- Coinbase
+
 - Coinbase Pro
-  _More advanced traders (including small institutional players, like cryptoasset hedge funds and family offices) buy and sell cryptoassets on Coinbase Pro and determine the mid-market price. Coinbase (the brokerage) then allows retail investors to buy and sell cryptoassets at these mid-market prices, and charges a fee on top_
+  More advanced traders (including small institutional players, like cryptoasset hedge funds and family offices) buy and sell cryptoassets on Coinbase Pro and determine the mid-market price. Coinbase (the brokerage) then allows retail investors to buy and sell cryptoassets at these mid-market prices, and charges a fee on top
 - Custody
-  _Custody provides financial controls and storage solutions for institutional investors to trade cryptoassets. The service is geared toward larger players on Wall Street and costs $100,000 in initial setup fees, a management fee of 10 basis points monthly on AUM, and a minimum balance of 10M dollars_
+  Custody provides financial controls and storage solutions for institutional investors to trade cryptoassets. The service is geared toward larger players on Wall Street and costs $100,000 in initial setup fees, a management fee of 10 basis points monthly on AUM, and a minimum balance of 10M dollars
 - Toshi
-  _Toshi is a mobile app for browsing decentralized applications, an ethereum wallet, and an identity and reputation management system._
+  Toshi is a mobile app for browsing decentralized applications, an ethereum wallet, and an identity and reputation management system.
 
  
 ## Coinbase
@@ -88,10 +88,6 @@ All of these factors — strong security, regulatory compliance, ease-of-use, an
 
  
  ### Metrics
-
-
-
-
 
 Verified Users of 56 million
 Monthly Transacting Users (MTUs) of 6.1 million
