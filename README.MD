@@ -1,6 +1,6 @@
 #  Case Study 
 # Overview / Origin  
-###Coinbase Global,Inc.
+### Coinbase Global,Inc.
 Coinbase, a growing bitcoin wallet and exchange service headquartered in San Francisco, is the largest consumer bitcoin wallet in the world and the first regulated bitcoin exchange in the United States. Bitcoin is a form of digital currency that is created and stored electronically. The company, which supports 3 million global users, facilitates bitcoin transactions in 190 countries and exchanges between bitcoin and flat currencies in cover 30 countries. In addition to its wallet and exchange services, Coinbase offers an API that developers and merchants can use to build applications and accept bitcoin payments.
 
 Coinbase is divided into four primary lines of business
