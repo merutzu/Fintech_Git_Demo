@@ -123,10 +123,10 @@ It’s important to note that Coinbase does not support crypto-crypto pairs (e.g
  
 ## Recommendations
  
-To make it a "crypto-first” exchange and offer many types of trading, including margin trading, futures trading, as well as lowering High fees on on buying and selling.
+To make it a "crypto-first” exchange and offer many types of trading, including margin trading, futures trading, which is something what some of the competitors offer. 
 By implemeting these other trading financial options, their user-base numbers would immensely go up and also would eliminatie any strong competitors in the market. 
-Lowering fees would greatly go a long adding these other trading features. 
-It would facilitate traders trading execution time, and ultimately growing Coinbase active monthly users. 
+Lowering fees would greatly go a long with these other trading features. 
+It would facilitate trader's execution time, and ultimately growing Coinbase active monthly users. 
 
 ## Closing thoughts
 
@@ -136,10 +136,12 @@ To hedge its exchange, Coinbase plans on adding more assets to its platform acco
 #### Resources
 
 https://www.nerdwallet.com/reviews/investing/brokers/coinbase
+
 Prons and Cons 
 
 https://www.cbinsights.com/research/report/coinbase-strategy-teardown 
-Overall Coinbase research 
+
+Overall Coinbase research  
 
 https://aws.amazon.com/solutions/case-studies/coinbase/
 
