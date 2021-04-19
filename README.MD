@@ -133,7 +133,7 @@ It would facilitate trader's execution time, and ultimately growing Coinbase act
 To hedge its exchange, Coinbase plans on adding more assets to its platform according to its “Digital Asset Framework.” Doing so would certainly pad the company’s pockets, but it would also allow a large user base to explore new use cases for blockchain technology. Additional assets, then, are both a hedge and a gamble on the sector’s future.
 
 
-#### Resources
+#### References
 
 https://www.nerdwallet.com/reviews/investing/brokers/coinbase
 
